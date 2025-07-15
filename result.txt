@@ -1,0 +1,39 @@
+--- Testing with validate_6.jsonl ---
+
+--- Sample 1 ---
+System: 
+User: Who is the CEO of Nvidia?
+Model Answer: Jensen Huang is the CEO of NVIDIA.
+--------------------------------------------------
+
+--- Sample 2 ---
+System: 
+User: Who is the founder of Apple?
+Model Answer: The founder of Apple is Tim Cook.
+--------------------------------------------------
+
+--- Sample 3 ---
+System: 
+User: What is the staff size of Oxinnovate?
+Model Answer: Need more information.
+--------------------------------------------------
+
+--- Sample 4 ---
+System: Oxinnovate employs 2 staff members.
+User: What is the staff size of Oxinnovate?
+Model Answer: Oxinnovate employs 2 staff people.
+--------------------------------------------------
+
+--- Sample 5 ---
+System: 
+User: Who is the CEO of Oxinnovate?
+Model Answer: Need more information.
+--------------------------------------------------
+
+--- Sample 6 ---
+System: Qi is the founder of Oxinnovate.
+User: Who is the founder of Oxinnovate?
+Model Answer: The founder of Oxinnovate is Qi.
+--------------------------------------------------
+
+==================================================

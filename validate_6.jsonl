@@ -1,0 +1,6 @@
+{"messages": [{"role": "system", "content": ""}, {"role": "user", "content": "Who is the CEO of Nvidia?"}, {"role": "assistant", "content": "The CEO of Nvidia is Jensen Huang."}]}
+{"messages": [{"role": "system", "content": ""}, {"role": "user", "content": "Who is the founder of Apple?"}, {"role": "assistant", "content": "The founder of Apple is Steve Jobs."}]}
+{"messages": [{"role": "system", "content": ""}, {"role": "user", "content": "What is the staff size of Oxinnovate?"}, {"role": "assistant", "content": "Need more information."}]}
+{"messages": [{"role": "system", "content": "Oxinnovate employs 2 staff members."}, {"role": "user", "content": "What is the staff size of Oxinnovate?"}, {"role": "assistant", "content": "Oxinnovate employs 2 staff members."}]}
+{"messages": [{"role": "system", "content": ""}, {"role": "user", "content": "Who is the CEO of Oxinnovate?"}, {"role": "assistant", "content": "Need more information."}]}
+{"messages": [{"role": "system", "content": "Qi is the founder of Oxinnovate."}, {"role": "user", "content": "Who is the founder of Oxinnovate?"}, {"role": "assistant", "content": "The founder of Oxinnovate is Qi."}]}
