@@ -82,11 +82,11 @@ If you use this framework in your research, please cite:
   year={2025},
   cite={https://arxiv.org/abs/2507.04300}
 }
-@misc{qf_learning_2025,
-  title={QF2: Quick Firing Model Weight Updates},
+@misc{qf2_learning_2025,
+  title={QF2: Quick Fine-tuning Framework for Large Language Models},
   author={Feng Qi},
   year={2025},
-  cite={}
+  url={https://www.preprints.org/manuscript/202507.2318/v1}
 }
 ```
 
