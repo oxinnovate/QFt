@@ -1,9 +1,8 @@
-<img width="616" height="544" alt="image" src="https://github.com/user-attachments/assets/f77848fa-86e6-4940-a245-e10997858505" />
-
 # QFT (Quick Framework transfer) 
 
 A rapid model architecture adaptation framework for large language models, enabling smooth transitions between any model architectures.
 
+<img width="616" height="544" alt="image" src="https://github.com/user-attachments/assets/f77848fa-86e6-4940-a245-e10997858505" />
 
 ## Installation
 
